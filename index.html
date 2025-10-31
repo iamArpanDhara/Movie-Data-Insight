@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Movie Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🎬 Movie Explorer</h1>
+    <p>Explore Bengali, Hindi & English Movies by Genre</p>
+  </header>
+
+  <main>
+    <div class="filter-section">
+      <label for="genreSelect">Filter by Genre:</label>
+      <select id="genreSelect">
+        <option value="all">All</option>
+        <option value="Action">Action</option>
+        <option value="Drama">Drama</option>
+        <option value="Comedy">Comedy</option>
+        <option value="Sci-Fi">Sci-Fi</option>
+        <option value="Romance">Romance</option>
+        <option value="Thriller">Thriller</option>
+        <option value="Adventure">Adventure</option>
+      </select>
+    </div>
+
+    <section id="movieList" class="movie-list"></section>
+  </main>
+
+  <footer>
+    <p>© 2025 Movie Explorer | Built with ❤️ using HTML, CSS & JS</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
