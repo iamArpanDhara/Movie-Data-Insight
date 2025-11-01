@@ -31,6 +31,8 @@ All Movie.png
 ![Movie List Screenshot]()
 ![Genre Filter Screenshot](screenshots/genre-filter.png)
 
+![All Movie](All Movie.png)
+
 ---
 
 ## 🚀 How to Use
