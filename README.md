@@ -27,7 +27,7 @@ This project allows users to explore and filter movies by **genre** with a clean
 ## 📸 Screenshots
 
 *(Add your screenshots here — for example:)*
-
+Genre Filter Screenshot
 ![Movie List Screenshot]()
 ![Genre Filter Screenshot](screenshots/genre-filter.png)
 
